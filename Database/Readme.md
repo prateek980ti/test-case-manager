@@ -1,6 +1,6 @@
 **Set up PostgreSQL database**
 
-    - Create a PostgreSQL database (if you don't have one):
+    - Create a PostgreSQL database (only if you don't have one):
 
         ```sql
         CREATE DATABASE testdb;

@@ -20,7 +20,7 @@ To set up and run the frontend application, follow these steps:
    cd frontend
 
 3. **Install dependencies**:
-   npm i
+   npm insatll
 
 4. **Run the development server**:
    npm run dev
