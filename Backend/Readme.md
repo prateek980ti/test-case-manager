@@ -13,7 +13,7 @@ This is the backend part of the Test Case Management Application. It provides th
 To set up and run the backend application, follow these steps:
 
 1. **Clone the repository**:
-   git clone [YOUR_REPOSITORY_URL]
+   git clone [https://github.com/prateek980ti/test-case-manager]
 
 2. **Navigate to the backend directory**:
    cd backend
